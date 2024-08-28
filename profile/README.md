@@ -2,7 +2,7 @@
 
 *Website Visitor Identification Tool*
 
-Leadpipe is a website visitor identification tool that helps businesses identify website visitors and collect their contact information. This information can be used to target marketing efforts and reach out to potential customers who have already shown interest.
+Leadpipe is a visitor identification tool that helps businesses identify website visitors and collect their contact information. This information can be used to target marketing efforts and reach out to potential customers who have already shown interest.
 
 ## Features
 
@@ -22,12 +22,12 @@ Leadpipe is a website visitor identification tool that helps businesses identify
 ## Getting Started
 
 1. Create a Leadpipe account
-2. Add the Leadpipe tracking code to your website
+2. Add the Leadpipe tracking pixel to your website
 3. Start collecting leads
 
 ## Pricing
 
-Leadpipe offers a free trial and a variety of paid plans.
+We offer a free trial and a variety of paid plans.
 
 ## Support
 
