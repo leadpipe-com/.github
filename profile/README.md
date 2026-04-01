@@ -68,11 +68,11 @@ curl -X POST https://api.leadpipe.ai/v1/intent/audiences/preview \
 ## SDK
 
 ```bash
-npm install @leadpipe/sdk
+npm install @leadpipe/client
 ```
 
 ```typescript
-import { Leadpipe } from '@leadpipe/sdk';
+import { Leadpipe } from '@leadpipe/client';
 
 const lp = new Leadpipe('sk_your_key');
 
